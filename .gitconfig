@@ -1,0 +1,3 @@
+[safe]
+    directory = /go/src/github.com/yannh/redis-dump-go
+
